@@ -397,6 +397,7 @@ textarea{
     nav .fa-solid{
       display: block;
       font-size: 25px;
+      margin-right: 15px;
     }
     nav ul {
       background:#922f9b;
