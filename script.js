@@ -11,7 +11,7 @@ $(document).ready(function(){
     });
   });
   var typed =new Typed(".text",{
-      strings:["Front End Developer" , "Web developer","Student"],
+      strings:["React Native Developer" , "Swift UI ","IOS Developer"],
       typeSpeed: 80,
       backSpeed: 80,
       backDelay: 500,
